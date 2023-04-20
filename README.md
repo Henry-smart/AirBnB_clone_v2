@@ -141,5 +141,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 <h1>AUTHORS</h1>
-<h4>Henrysmart: <a href="https://github.com/Henry-smart">Github</a> </h4>
+Henrysmart: <a href="https://github.com/Henry-smart">Github</a>
 
